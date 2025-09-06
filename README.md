@@ -226,9 +226,3 @@ This implementation serves as an educational reference for the BitTorrent protoc
 ## License
 
 This project is provided as-is for educational purposes. Please respect copyright laws and only download content you have permission to access.
-
-## References
-
-- [BitTorrent Protocol Specification (BEP-0003)](http://bittorrent.org/beps/bep_0003.html)
-- [BitTorrent Enhancement Proposals](http://bittorrent.org/beps/bep_0000.html)
-- [UDP Tracker Protocol](http://bittorrent.org/beps/bep_0015.html)
