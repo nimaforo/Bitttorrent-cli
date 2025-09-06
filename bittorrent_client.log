@@ -1,0 +1,197 @@
+2025-09-04 12:01:01,883 - main_client - INFO - Initializing BitTorrent client for test.torrent
+2025-09-04 12:01:01,884 - main_client - INFO - Loaded torrent: test_data.txt
+2025-09-04 12:01:01,884 - main_client - INFO - Size: 216 bytes (1 pieces)
+2025-09-04 12:01:01,885 - file_manager_client - INFO - Directory structure created in test_downloads
+2025-09-04 12:01:01,885 - file_manager_client - ERROR - Failed to get storage info: module 'os' has no attribute 'statvfs'
+2025-09-04 12:01:01,885 - main_client - ERROR - Insufficient storage space!
+2025-09-04 12:02:38,956 - main_client - INFO - Initializing BitTorrent client for test.torrent
+2025-09-04 12:02:38,957 - main_client - INFO - Loaded torrent: test_data.txt
+2025-09-04 12:02:38,957 - main_client - INFO - Size: 216 bytes (1 pieces)
+2025-09-04 12:02:38,958 - file_manager_client - INFO - Directory structure created in test_downloads
+2025-09-04 12:02:38,959 - file_manager_client - INFO - Found 0 existing valid pieces
+2025-09-04 12:02:38,959 - file_manager_client - INFO - File allocation completed
+2025-09-04 12:02:38,959 - main_client - INFO - Client initialization completed successfully
+2025-09-04 12:07:05,713 - __main__ - INFO - Initializing BitTorrent client for ubuntu.torrent
+2025-09-04 12:07:05,714 - __main__ - INFO - Loaded torrent: ubuntu-22.04.3-desktop-amd64.iso
+2025-09-04 12:07:05,714 - __main__ - INFO - Size: 5,037,662,208 bytes (19218 pieces)
+2025-09-04 12:07:05,715 - file_manager_client - INFO - Directory structure created in downloads
+2025-09-04 12:07:07,944 - file_manager_client - INFO - Found 0 existing valid pieces
+2025-09-04 12:07:07,950 - file_manager_client - INFO - File allocation completed
+2025-09-04 12:07:07,950 - __main__ - INFO - Client initialization completed successfully
+2025-09-04 12:07:07,951 - __main__ - INFO - Starting BitTorrent client...
+2025-09-04 12:07:07,953 - progress_client - INFO - Progress display started
+2025-09-04 12:07:07,955 - __main__ - INFO - BitTorrent client started successfully
+2025-09-04 12:07:29,283 - tracker_client - ERROR - HTTP tracker announce failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-09-04 12:07:29,284 - tracker_client - WARNING - Failed announce to https://torrent.ubuntu.com/announce
+2025-09-04 12:07:44,619 - tracker_client - INFO - Got 0 unique peers from 2 trackers
+2025-09-04 12:08:01,856 - __main__ - INFO - Initializing BitTorrent client for .\6E992529CB52995FF652A97FA9D6E27047736A38 (1).torrent
+2025-09-04 12:08:01,858 - __main__ - INFO - Loaded torrent: Eminem-Stan.mp3
+2025-09-04 12:08:01,858 - __main__ - INFO - Size: 6,459,460 bytes (395 pieces)
+2025-09-04 12:08:01,858 - file_manager_client - INFO - Directory structure created in downloads
+2025-09-04 12:08:01,863 - file_manager_client - INFO - Found 0 existing valid pieces
+2025-09-04 12:08:01,864 - file_manager_client - INFO - File allocation completed
+2025-09-04 12:08:01,864 - __main__ - INFO - Client initialization completed successfully
+2025-09-04 12:08:01,866 - __main__ - INFO - Starting BitTorrent client...
+2025-09-04 12:08:01,867 - progress_client - INFO - Progress display started
+2025-09-04 12:08:01,868 - __main__ - INFO - BitTorrent client started successfully
+2025-09-04 12:08:23,107 - tracker_client - ERROR - HTTP tracker announce failed: <urlopen error [Errno 11002] getaddrinfo failed>
+2025-09-04 12:08:23,108 - tracker_client - WARNING - Failed announce to http://tracker.trackerfix.com/announce
+2025-09-04 12:08:43,109 - tracker_client - ERROR - HTTP tracker announce failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-09-04 12:08:43,109 - tracker_client - WARNING - Failed announce to http://tracker.trackerfix.com/announce
+2025-09-04 12:08:44,323 - tracker_client - ERROR - HTTP tracker announce failed: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2025-09-04 12:08:44,323 - tracker_client - WARNING - Failed announce to http://explodie.org:6969/announce
+2025-09-04 12:08:44,847 - tracker_client - ERROR - HTTP tracker announce failed: HTTP Error 403: Forbidden
+2025-09-04 12:08:44,847 - tracker_client - WARNING - Failed announce to http://tracker.tfile.me/announce
+2025-09-04 12:08:56,060 - tracker_client - ERROR - HTTP tracker announce failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-09-04 12:08:56,060 - tracker_client - WARNING - Failed announce to http://bigfoot1942.sektori.org:6969/announce
+2025-09-04 12:09:04,161 - tracker_client - ERROR - HTTP tracker announce failed: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2025-09-04 12:09:04,161 - tracker_client - WARNING - Failed announce to http://explodie.org:6969/announce
+2025-09-04 12:09:07,292 - tracker_client - ERROR - UDP request failed: [Errno 11001] getaddrinfo failed
+2025-09-04 12:09:07,294 - tracker_client - ERROR - Invalid connect response from UDP tracker
+2025-09-04 12:09:07,294 - tracker_client - WARNING - Failed announce to udp://tracker4.piratux.com:6969/announce
+2025-09-04 12:09:07,679 - tracker_client - ERROR - HTTP tracker announce failed: HTTP Error 403: Forbidden
+2025-09-04 12:09:07,680 - tracker_client - WARNING - Failed announce to http://tracker.tfile.me/announce
+2025-09-04 12:09:18,516 - tracker_client - ERROR - UDP request failed: [Errno 11002] getaddrinfo failed
+2025-09-04 12:09:18,516 - tracker_client - ERROR - Invalid connect response from UDP tracker
+2025-09-04 12:09:18,516 - tracker_client - WARNING - Failed announce to udp://tracker.trackerfix.com:80/announce
+2025-09-04 12:09:29,759 - tracker_client - ERROR - HTTP tracker announce failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-09-04 12:09:29,759 - tracker_client - WARNING - Failed announce to http://bigfoot1942.sektori.org:6969/announce
+2025-09-04 12:09:29,896 - tracker_client - ERROR - UDP request failed: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-09-04 12:09:29,896 - tracker_client - ERROR - Invalid connect response from UDP tracker
+2025-09-04 12:09:29,896 - tracker_client - WARNING - Failed announce to udp://tracker.pomf.se:80/announce
+2025-09-04 12:09:41,129 - tracker_client - ERROR - UDP request failed: [Errno 11001] getaddrinfo failed
+2025-09-04 12:09:41,130 - tracker_client - ERROR - Invalid connect response from UDP tracker
+2025-09-04 12:09:41,130 - tracker_client - WARNING - Failed announce to udp://tracker4.piratux.com:6969/announce
+2025-09-04 12:09:52,345 - tracker_client - ERROR - UDP request failed: [Errno 11001] getaddrinfo failed
+2025-09-04 12:09:52,346 - tracker_client - ERROR - Invalid connect response from UDP tracker
+2025-09-04 12:09:52,346 - tracker_client - WARNING - Failed announce to udp://torrent.gresille.org:80/announce
+2025-09-04 12:10:03,581 - tracker_client - ERROR - UDP request failed: [Errno 11002] getaddrinfo failed
+2025-09-04 12:10:03,581 - tracker_client - ERROR - Invalid connect response from UDP tracker
+2025-09-04 12:10:03,581 - tracker_client - WARNING - Failed announce to udp://tracker.trackerfix.com:80/announce
+2025-09-04 12:10:03,725 - tracker_client - ERROR - UDP request failed: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-09-04 12:10:03,725 - tracker_client - ERROR - Invalid connect response from UDP tracker
+2025-09-04 12:10:03,725 - tracker_client - WARNING - Failed announce to udp://tracker.pomf.se:80/announce
+2025-09-04 12:10:14,949 - tracker_client - ERROR - UDP request failed: [Errno 11001] getaddrinfo failed
+2025-09-04 12:10:14,949 - tracker_client - ERROR - Invalid connect response from UDP tracker
+2025-09-04 12:10:14,950 - tracker_client - WARNING - Failed announce to udp://torrent.gresille.org:80/announce
+2025-09-04 12:10:18,741 - tracker_client - ERROR - UDP request failed: timed out
+2025-09-04 12:10:18,741 - tracker_client - ERROR - Invalid connect response from UDP tracker
+2025-09-04 12:10:18,741 - tracker_client - WARNING - Failed announce to udp://tracker.coppersurfer.tk:80
+2025-09-04 12:10:29,960 - tracker_client - ERROR - UDP request failed: timed out
+2025-09-04 12:10:29,960 - tracker_client - ERROR - Invalid connect response from UDP tracker
+2025-09-04 12:10:29,960 - tracker_client - WARNING - Failed announce to udp://tracker.coppersurfer.tk:80
+2025-09-04 12:10:34,098 - tracker_client - ERROR - UDP request failed: timed out
+2025-09-04 12:10:34,098 - tracker_client - ERROR - Invalid connect response from UDP tracker
+2025-09-04 12:10:34,098 - tracker_client - WARNING - Failed announce to udp://p4p.arenabg.com:1337
+2025-09-04 12:10:45,159 - tracker_client - ERROR - UDP request failed: timed out
+2025-09-04 12:10:45,159 - tracker_client - ERROR - Invalid announce response from UDP tracker
+2025-09-04 12:10:45,160 - tracker_client - WARNING - Failed announce to udp://p4p.arenabg.com:1337
+2025-09-04 12:10:49,374 - tracker_client - ERROR - UDP request failed: timed out
+2025-09-04 12:10:49,374 - tracker_client - ERROR - Invalid connect response from UDP tracker
+2025-09-04 12:10:49,374 - tracker_client - WARNING - Failed announce to udp://glotorrents.pw:6969/announce
+2025-09-04 12:11:00,183 - tracker_client - ERROR - UDP request failed: timed out
+2025-09-04 12:11:00,183 - tracker_client - ERROR - Invalid connect response from UDP tracker
+2025-09-04 12:11:00,184 - tracker_client - WARNING - Failed announce to udp://glotorrents.pw:6969/announce
+2025-09-04 12:11:00,604 - tracker_client - ERROR - UDP request failed: [Errno 11001] getaddrinfo failed
+2025-09-04 12:11:00,605 - tracker_client - ERROR - Invalid connect response from UDP tracker
+2025-09-04 12:11:00,605 - tracker_client - WARNING - Failed announce to udp://9.rarbg.to:2710/announce
+2025-09-04 12:11:11,843 - tracker_client - ERROR - UDP request failed: [Errno 11001] getaddrinfo failed
+2025-09-04 12:11:11,843 - tracker_client - ERROR - Invalid connect response from UDP tracker
+2025-09-04 12:11:11,843 - tracker_client - WARNING - Failed announce to udp://9.rarbg.to:2710/announce
+2025-09-04 12:11:26,853 - tracker_client - ERROR - UDP request failed: timed out
+2025-09-04 12:11:26,853 - tracker_client - ERROR - UDP request failed: timed out
+2025-09-04 12:11:26,853 - tracker_client - ERROR - Invalid connect response from UDP tracker
+2025-09-04 12:11:26,853 - tracker_client - WARNING - Failed announce to udp://tracker.coppersurfer.tk:6969/announce
+2025-09-04 12:11:26,853 - tracker_client - ERROR - Invalid connect response from UDP tracker
+2025-09-04 12:11:26,853 - tracker_client - WARNING - Failed announce to udp://tracker.coppersurfer.tk:6969/announce
+2025-09-04 12:11:38,091 - tracker_client - ERROR - UDP request failed: [Errno 11002] getaddrinfo failed
+2025-09-04 12:11:38,092 - tracker_client - ERROR - Invalid connect response from UDP tracker
+2025-09-04 12:11:38,092 - tracker_client - WARNING - Failed announce to udp://9.rarbg.me:2710/announce
+2025-09-04 12:11:49,323 - tracker_client - ERROR - UDP request failed: [Errno 11002] getaddrinfo failed
+2025-09-04 12:11:49,323 - tracker_client - ERROR - Invalid connect response from UDP tracker
+2025-09-04 12:11:49,324 - tracker_client - WARNING - Failed announce to udp://9.rarbg.me:2710/announce
+2025-09-04 12:12:04,524 - tracker_client - ERROR - UDP request failed: timed out
+2025-09-04 12:12:04,524 - tracker_client - ERROR - UDP request failed: timed out
+2025-09-04 12:12:04,524 - tracker_client - ERROR - Invalid connect response from UDP tracker
+2025-09-04 12:12:04,524 - tracker_client - WARNING - Failed announce to udp://tracker.leechers-paradise.org:6969/announce
+2025-09-04 12:12:04,524 - tracker_client - ERROR - Invalid connect response from UDP tracker
+2025-09-04 12:12:04,524 - tracker_client - WARNING - Failed announce to udp://tracker.leechers-paradise.org:6969/announce
+2025-09-04 12:12:15,750 - tracker_client - ERROR - UDP request failed: [Errno 11001] getaddrinfo failed
+2025-09-04 12:12:15,750 - tracker_client - ERROR - Invalid connect response from UDP tracker
+2025-09-04 12:12:15,752 - tracker_client - WARNING - Failed announce to udp://tracker.openbittorrent.com:80/announce
+2025-09-04 12:12:26,986 - tracker_client - ERROR - UDP request failed: [Errno 11002] getaddrinfo failed
+2025-09-04 12:12:26,986 - tracker_client - ERROR - Invalid connect response from UDP tracker
+2025-09-04 12:12:26,986 - tracker_client - WARNING - Failed announce to udp://tracker.openbittorrent.com:80/announce
+2025-09-04 12:12:30,899 - tracker_client - ERROR - Invalid announce response format
+2025-09-04 12:12:30,899 - tracker_client - WARNING - Failed announce to udp://open.demonii.com:1337/announce
+2025-09-04 12:12:59,286 - __main__ - INFO - Loaded torrent: Bo.Bui.Gai.Wak.2006.EC.BDRip.720p.ExKinoRay.mkv
+2025-09-04 12:12:59,286 - __main__ - INFO - Size: 8,965,559,177 bytes (8551 pieces)
+2025-09-04 12:12:59,287 - file_manager_client - INFO - Directory structure created in downloads
+2025-09-04 12:13:02,765 - file_manager_client - INFO - Found 0 existing valid pieces
+2025-09-04 12:13:02,786 - file_manager_client - INFO - File allocation completed
+2025-09-04 12:13:02,786 - __main__ - INFO - Client initialization completed successfully
+2025-09-04 12:13:02,787 - __main__ - INFO - Starting BitTorrent client...
+2025-09-04 12:13:02,789 - progress_client - INFO - Progress display started
+2025-09-04 12:13:02,791 - __main__ - INFO - BitTorrent client started successfully
+2025-09-04 12:13:16,213 - tracker_client - ERROR - Invalid announce response format
+2025-09-04 12:13:16,213 - tracker_client - WARNING - Failed announce to udp://opentor.net:6969
+2025-09-04 12:21:55,907 - __main__ - INFO - Initializing BitTorrent client for AB5CB4D39DCC3F92D91B2353A98F1DC1B7D44797.torrent
+2025-09-04 12:21:55,908 - __main__ - INFO - Loaded torrent: Nobody.2.2025.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC
+2025-09-04 12:21:55,908 - __main__ - INFO - Size: 17,212,284,515 bytes (4104 pieces)
+2025-09-04 12:21:55,909 - file_manager_client - INFO - Directory structure created in downloads
+2025-09-04 12:22:05,563 - file_manager_client - INFO - Found 0 existing valid pieces
+2025-09-04 12:22:05,788 - file_manager_client - INFO - File allocation completed
+2025-09-04 12:22:05,788 - __main__ - INFO - Client initialization completed successfully
+2025-09-04 12:22:05,807 - __main__ - INFO - Starting BitTorrent client...
+2025-09-04 12:22:05,810 - progress_client - INFO - Progress display started
+2025-09-04 12:22:05,813 - __main__ - INFO - BitTorrent client started successfully
+2025-09-04 12:23:00,958 - __main__ - INFO - Initializing BitTorrent client for .\AB5CB4D39DCC3F92D91B2353A98F1DC1B7D44797 (1).torrent
+2025-09-04 12:23:00,959 - __main__ - INFO - Loaded torrent: Nobody.2.2025.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC
+2025-09-04 12:23:00,959 - __main__ - INFO - Size: 17,212,284,515 bytes (4104 pieces)
+2025-09-04 12:23:00,960 - file_manager_client - INFO - Directory structure created in downloads
+2025-09-04 12:23:38,137 - file_manager_client - INFO - Found 0 existing valid pieces
+2025-09-04 12:23:38,145 - file_manager_client - INFO - File allocation completed
+2025-09-04 12:23:38,145 - __main__ - INFO - Client initialization completed successfully
+2025-09-04 12:23:38,146 - __main__ - INFO - Starting BitTorrent client...
+2025-09-04 12:23:38,150 - progress_client - INFO - Progress display started
+2025-09-04 12:23:38,152 - __main__ - INFO - BitTorrent client started successfully
+2025-09-04 12:23:45,617 - __main__ - INFO - Initializing BitTorrent client for .\AB5CB4D39DCC3F92D91B2353A98F1DC1B7D44797 (1).torrent
+2025-09-04 12:23:45,618 - __main__ - INFO - Loaded torrent: Nobody.2.2025.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC
+2025-09-04 12:23:45,618 - __main__ - INFO - Size: 17,212,284,515 bytes (4104 pieces)
+2025-09-04 12:23:45,619 - file_manager_client - INFO - Directory structure created in downloads
+2025-09-04 12:24:25,851 - __main__ - INFO - Initializing BitTorrent client for AB5CB4D39DCC3F92D91B2353A98F1DC1B7D44797.torrent
+2025-09-04 12:24:25,853 - __main__ - INFO - Loaded torrent: Nobody.2.2025.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC
+2025-09-04 12:24:25,854 - __main__ - INFO - Size: 17,212,284,515 bytes (4104 pieces)
+2025-09-04 12:24:25,856 - file_manager_client - INFO - Directory structure created in downloads
+2025-09-04 12:24:37,173 - __main__ - INFO - Initializing BitTorrent client for AB5CB4D39DCC3F92D91B2353A98F1DC1B7D44797.torrent
+2025-09-04 12:24:37,175 - __main__ - INFO - Loaded torrent: Nobody.2.2025.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC
+2025-09-04 12:24:37,175 - __main__ - INFO - Size: 17,212,284,515 bytes (4104 pieces)
+2025-09-04 12:24:37,176 - file_manager_client - INFO - Directory structure created in downloads
+2025-09-04 12:25:05,538 - __main__ - INFO - Loaded torrent: Bo.Bui.Gai.Wak.2006.EC.BDRip.720p.ExKinoRay.mkv
+2025-09-04 12:25:05,539 - __main__ - INFO - Size: 8,965,559,177 bytes (8551 pieces)
+2025-09-04 12:25:05,539 - file_manager_client - INFO - Directory structure created in downloads
+2025-09-04 12:25:16,825 - __main__ - INFO - Initializing BitTorrent client for ubuntu.torrent
+2025-09-04 12:25:16,828 - __main__ - INFO - Loaded torrent: ubuntu-22.04.3-desktop-amd64.iso
+2025-09-04 12:25:16,828 - __main__ - INFO - Size: 5,037,662,208 bytes (19218 pieces)
+2025-09-04 12:25:16,828 - file_manager_client - INFO - Directory structure created in downloads
+2025-09-04 12:25:22,943 - file_manager_client - INFO - Found 5 existing valid pieces
+2025-09-04 12:25:22,944 - __main__ - INFO - Resuming download: 5 pieces already completed
+2025-09-04 12:25:22,944 - file_manager_client - INFO - File allocation completed
+2025-09-04 12:25:22,944 - __main__ - INFO - Client initialization completed successfully
+2025-09-04 12:25:22,947 - __main__ - INFO - Starting BitTorrent client...
+2025-09-04 12:25:22,948 - progress_client - INFO - Progress display started
+2025-09-04 12:25:22,950 - __main__ - INFO - BitTorrent client started successfully
+2025-09-04 12:25:54,419 - tracker_client - ERROR - HTTP tracker announce failed: HTTP Error 503: Service Unavailable
+2025-09-04 12:25:54,421 - tracker_client - WARNING - Failed announce to https://torrent.ubuntu.com/announce
+2025-09-04 12:25:56,107 - tracker_client - INFO - Got 0 unique peers from 1 trackers
+2025-09-04 12:26:47,141 - __main__ - INFO - Initializing BitTorrent client for ubuntu.torrent
+2025-09-04 12:26:47,144 - __main__ - INFO - Loaded torrent: ubuntu-22.04.3-desktop-amd64.iso
+2025-09-04 12:26:47,144 - __main__ - INFO - Size: 5,037,662,208 bytes (19218 pieces)
+2025-09-04 12:26:47,144 - file_manager_client - INFO - Directory structure created in downloads
+2025-09-04 12:26:53,143 - file_manager_client - INFO - Found 5 existing valid pieces
+2025-09-04 12:26:53,143 - __main__ - INFO - Resuming download: 5 pieces already completed
+2025-09-04 12:26:53,143 - file_manager_client - INFO - File allocation completed
+2025-09-04 12:26:53,143 - __main__ - INFO - Client initialization completed successfully
+2025-09-04 12:26:53,144 - __main__ - INFO - Starting BitTorrent client...
+2025-09-04 12:26:53,145 - progress_client - INFO - Progress display started
+2025-09-04 12:26:53,147 - __main__ - INFO - BitTorrent client started successfully
